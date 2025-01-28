@@ -165,7 +165,7 @@ The BIST implementation successfully:
 4. Enhance power optimization
 
 ## License
-TBD
+This is an academic project completed as part of the ECE 6443 - VLSI Systems & Architecture course at New York University (NYU). All rights are reserved to the project creator and NYU. This code is provided for educational purposes only and may not be used for commercial purposes without permission.
 
 ## Contributors
-- Xhovani Malixm (xxm202@nyu.edu)
+- Xhovani Mali
