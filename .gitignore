@@ -1,0 +1,97 @@
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon?
+._*
+.Spotlight-V100
+.Trashes
+
+# Windows system files
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+ehthumbs_vista.db
+[Dd]esktop.ini
+
+# Simulation files and directories
+*.log
+*.fsdb
+*.vcd
+*.wlf
+*.vpd
+*.key
+*.rc
+*.dump
+sim/
+simv*
+csrc/
+DVEfiles/
+ucli.key
+*.ver
+*.vdb
+vcs_lib/
+AN.DB/
+.vcs_lib
+.vlogansetup.*
+
+# Synthesis and implementation files
+*.svf
+*.rpt
+*.mrp
+*.mfd
+*.pad
+*.par
+*.pcf
+*.ptwx
+*.xpi
+*.twx
+*.bgn
+*.twr
+*.drc
+*.ncd
+*.cmd_log
+*.prj
+reports/
+results/
+
+# Genus/Innovus specific
+*.conf
+*.genus
+*.genus_init.tcl
+*.genus.log*
+*.flowkit_init.tcl
+*innovus*
+*.invs
+*.dat
+*.odb
+
+# VCS specific
+*.tab
+simv.*
+*simv_*
+vc_hdrs.h
+*.vdb/
+
+# Coverage files
+*.vcd
+*.ucdb
+*.ucdb.*
+*.cm.*
+*.ecm.*
+
+# IDE files
+.vscode/
+*.swp
+*.swo
+*~
+
+# Backup files
+*.bak
+*.BAK
+*.orig
+
+# Other temporary files
+*.tmp
+*.temp
+temp/
